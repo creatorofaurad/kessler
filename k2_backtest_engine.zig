@@ -774,3 +774,7 @@ pub const BacktestEnvironment = struct {
 // kessler step 35: 802
 
 // kessler step 39: 801
+
+// kessler step 41: 680
+
+// kessler step 161: 536
