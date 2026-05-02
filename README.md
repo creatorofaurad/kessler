@@ -31,3 +31,345 @@ Kessler utilizes a hyper-optimized, low-level execution topology:
 ## Disclaimer
 This software is built for private institutional execution. Use at your own risk. Past performance does not guarantee future results.
 <!-- Kessler V3 Core -->
+
+<!-- commit step 9: 691 -->
+
+<!-- commit step 11: 435 -->
+
+<!-- commit step 12: 915 -->
+
+<!-- commit step 14: 630 -->
+
+<!-- commit step 24: 521 -->
+
+<!-- commit step 26: 628 -->
+
+<!-- commit step 35: 786 -->
+
+<!-- commit step 37: 650 -->
+
+<!-- commit step 43: 291 -->
+
+<!-- commit step 44: 763 -->
+
+<!-- commit step 46: 325 -->
+
+<!-- commit step 50: 966 -->
+
+<!-- commit step 53: 117 -->
+
+<!-- commit step 64: 364 -->
+
+<!-- commit step 69: 560 -->
+
+<!-- commit step 70: 768 -->
+
+<!-- commit step 71: 763 -->
+
+<!-- commit step 72: 421 -->
+
+<!-- commit step 79: 795 -->
+
+<!-- commit step 81: 263 -->
+
+<!-- commit step 82: 820 -->
+
+<!-- commit step 101: 687 -->
+
+<!-- commit step 114: 424 -->
+
+<!-- commit step 119: 114 -->
+
+<!-- commit step 134: 739 -->
+
+<!-- commit step 137: 884 -->
+
+<!-- commit step 141: 671 -->
+
+<!-- commit step 155: 471 -->
+
+<!-- commit step 162: 657 -->
+
+<!-- commit step 172: 410 -->
+
+<!-- commit step 175: 576 -->
+
+<!-- commit step 177: 659 -->
+
+<!-- commit step 179: 886 -->
+
+<!-- commit step 186: 358 -->
+
+<!-- commit step 192: 582 -->
+
+<!-- commit step 193: 607 -->
+
+<!-- commit step 200: 597 -->
+
+<!-- commit step 216: 356 -->
+
+<!-- commit step 219: 997 -->
+
+<!-- commit step 222: 315 -->
+
+<!-- commit step 228: 352 -->
+
+<!-- commit step 230: 480 -->
+
+<!-- commit step 238: 493 -->
+
+<!-- commit step 242: 103 -->
+
+<!-- kessler step 5: 765 -->
+
+<!-- kessler step 8: 723 -->
+
+<!-- kessler step 9: 434 -->
+
+<!-- kessler step 10: 310 -->
+
+<!-- commit step 250: 655 -->
+
+<!-- commit step 254: 270 -->
+
+<!-- commit step 256: 965 -->
+
+<!-- commit step 267: 273 -->
+
+<!-- commit step 272: 521 -->
+
+<!-- kessler step 34: 110 -->
+
+<!-- kessler step 36: 580 -->
+
+<!-- commit step 276: 929 -->
+
+<!-- commit step 277: 609 -->
+
+<!-- kessler step 42: 776 -->
+
+<!-- kessler step 45: 908 -->
+
+<!-- kessler step 46: 819 -->
+
+<!-- kessler step 48: 664 -->
+
+<!-- kessler step 50: 718 -->
+
+<!-- kessler step 53: 885 -->
+
+<!-- kessler step 58: 559 -->
+
+<!-- commit step 299: 758 -->
+
+<!-- kessler step 74: 324 -->
+
+<!-- kessler step 82: 782 -->
+
+<!-- kessler step 83: 113 -->
+
+<!-- kessler step 85: 237 -->
+
+<!-- kessler step 86: 576 -->
+
+<!-- commit step 331: 912 -->
+
+<!-- kessler step 98: 724 -->
+
+<!-- kessler step 99: 872 -->
+
+<!-- commit step 337: 313 -->
+
+<!-- kessler step 102: 242 -->
+
+<!-- commit step 340: 865 -->
+
+<!-- kessler step 108: 336 -->
+
+<!-- commit step 348: 601 -->
+
+<!-- commit step 353: 467 -->
+
+<!-- kessler step 115: 349 -->
+
+<!-- commit step 361: 348 -->
+
+<!-- kessler step 124: 426 -->
+
+<!-- kessler step 125: 790 -->
+
+<!-- kessler step 129: 170 -->
+
+<!-- kessler step 130: 834 -->
+
+<!-- kessler step 131: 858 -->
+
+<!-- kessler step 132: 980 -->
+
+<!-- kessler step 135: 311 -->
+
+<!-- kessler step 138: 505 -->
+
+<!-- commit step 376: 860 -->
+
+<!-- kessler step 143: 899 -->
+
+<!-- kessler step 144: 861 -->
+
+<!-- commit step 383: 234 -->
+
+<!-- kessler step 145: 608 -->
+
+<!-- kessler step 146: 697 -->
+
+<!-- kessler step 149: 661 -->
+
+<!-- commit step 388: 316 -->
+
+<!-- kessler step 153: 936 -->
+
+<!-- kessler step 155: 224 -->
+
+<!-- commit step 397: 724 -->
+
+<!-- kessler step 160: 452 -->
+
+<!-- commit step 399: 998 -->
+
+<!-- kessler step 168: 454 -->
+
+<!-- kessler step 3: 474 -->
+
+<!-- commit step 410: 681 -->
+
+<!-- kessler step 9: 846 -->
+
+<!-- kessler step 10: 976 -->
+
+<!-- kessler step 178: 256 -->
+
+<!-- kessler step 16: 548 -->
+
+<!-- kessler step 184: 323 -->
+
+<!-- commit step 423: 404 -->
+
+<!-- kessler step 186: 864 -->
+
+<!-- kessler step 190: 649 -->
+
+<!-- kessler step 25: 224 -->
+
+<!-- commit step 430: 553 -->
+
+<!-- kessler step 192: 361 -->
+
+<!-- commit step 433: 100 -->
+
+<!-- commit step 435: 536 -->
+
+<!-- kessler step 33: 587 -->
+
+<!-- kessler step 34: 704 -->
+
+<!-- kessler step 36: 877 -->
+
+<!-- kessler step 202: 559 -->
+
+<!-- kessler step 38: 589 -->
+
+<!-- commit step 442: 712 -->
+
+<!-- kessler step 40: 362 -->
+
+<!-- kessler step 206: 627 -->
+
+<!-- commit step 447: 721 -->
+
+<!-- kessler step 210: 291 -->
+
+<!-- kessler step 213: 118 -->
+
+<!-- kessler step 48: 566 -->
+
+<!-- kessler step 218: 686 -->
+
+<!-- kessler step 55: 905 -->
+
+<!-- commit step 464: 428 -->
+
+<!-- kessler step 226: 356 -->
+
+<!-- commit step 465: 207 -->
+
+<!-- kessler step 228: 852 -->
+
+<!-- kessler step 63: 793 -->
+
+<!-- commit step 469: 798 -->
+
+<!-- kessler step 66: 427 -->
+
+<!-- commit step 470: 700 -->
+
+<!-- kessler step 67: 489 -->
+
+<!-- commit step 472: 586 -->
+
+<!-- kessler step 235: 331 -->
+
+<!-- kessler step 70: 642 -->
+
+<!-- kessler step 74: 381 -->
+
+<!-- kessler step 76: 352 -->
+
+<!-- commit step 480: 161 -->
+
+<!-- kessler step 77: 259 -->
+
+<!-- kessler step 82: 894 -->
+
+<!-- kessler step 89: 461 -->
+
+<!-- kessler step 255: 693 -->
+
+<!-- kessler step 257: 804 -->
+
+<!-- kessler step 94: 215 -->
+
+<!-- commit step 498: 853 -->
+
+<!-- kessler step 95: 754 -->
+
+<!-- kessler step 261: 124 -->
+
+<!-- kessler step 97: 642 -->
+
+<!-- commit step 501: 520 -->
+
+<!-- commit step 502: 885 -->
+
+<!-- commit step 504: 244 -->
+
+<!-- kessler step 270: 867 -->
+
+<!-- commit step 508: 252 -->
+
+<!-- kessler step 107: 409 -->
+
+<!-- commit step 513: 702 -->
+
+<!-- kessler step 277: 960 -->
+
+<!-- kessler step 281: 387 -->
+
+<!-- commit step 520: 156 -->
+
+<!-- kessler step 284: 423 -->
+
+<!-- kessler step 120: 356 -->
+
+<!-- commit step 524: 293 -->
+
+<!-- kessler step 1: 814 -->

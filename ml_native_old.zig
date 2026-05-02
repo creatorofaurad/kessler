@@ -930,3 +930,313 @@ export fn kessler_infer(price: f32, time_val: f32, volume: f32, spread: f32) f32
     return mean.data[0]; 
 }
 // td3 critic loss
+
+// commit step 2: 975
+
+// commit step 6: 694
+
+// commit step 17: 406
+
+// commit step 28: 937
+
+// commit step 45: 223
+
+// commit step 49: 225
+
+// commit step 59: 816
+
+// commit step 96: 529
+
+// commit step 99: 310
+
+// commit step 100: 901
+
+// commit step 116: 736
+
+// commit step 121: 797
+
+// commit step 122: 368
+
+// commit step 125: 497
+
+// commit step 126: 137
+
+// commit step 127: 594
+
+// commit step 128: 925
+
+// commit step 133: 296
+
+// commit step 136: 712
+
+// commit step 150: 646
+
+// commit step 153: 873
+
+// commit step 157: 167
+
+// commit step 159: 298
+
+// commit step 181: 227
+
+// commit step 184: 378
+
+// commit step 196: 519
+
+// commit step 212: 815
+
+// commit step 213: 941
+
+// commit step 223: 730
+
+// commit step 227: 258
+
+// commit step 240: 456
+
+// kessler step 2: 398
+
+// commit step 241: 631
+
+// commit step 244: 126
+
+// commit step 246: 763
+
+// kessler step 15: 684
+
+// kessler step 20: 274
+
+// kessler step 21: 319
+
+// kessler step 25: 848
+
+// commit step 265: 701
+
+// commit step 266: 791
+
+// kessler step 30: 779
+
+// commit step 274: 870
+
+// kessler step 37: 206
+
+// commit step 275: 429
+
+// kessler step 38: 623
+
+// kessler step 47: 382
+
+// commit step 291: 443
+
+// commit step 293: 221
+
+// kessler step 57: 927
+
+// commit step 297: 711
+
+// kessler step 61: 453
+
+// kessler step 66: 205
+
+// kessler step 67: 381
+
+// kessler step 68: 162
+
+// commit step 309: 958
+
+// kessler step 72: 154
+
+// kessler step 73: 851
+
+// commit step 322: 839
+
+// kessler step 87: 991
+
+// commit step 326: 527
+
+// kessler step 90: 120
+
+// commit step 334: 276
+
+// kessler step 97: 236
+
+// commit step 338: 554
+
+// kessler step 103: 612
+
+// kessler step 104: 359
+
+// kessler step 111: 922
+
+// commit step 351: 288
+
+// kessler step 113: 924
+
+// commit step 354: 717
+
+// kessler step 120: 743
+
+// kessler step 122: 305
+
+// commit step 362: 583
+
+// commit step 363: 120
+
+// kessler step 126: 662
+
+// commit step 365: 644
+
+// commit step 366: 885
+
+// commit step 368: 404
+
+// kessler step 133: 487
+
+// commit step 379: 543
+
+// kessler step 141: 337
+
+// commit step 384: 894
+
+// commit step 391: 369
+
+// kessler step 156: 736
+
+// kessler step 164: 981
+
+// kessler step 165: 778
+
+// kessler step 166: 595
+
+// kessler step 5: 726
+
+// kessler step 7: 827
+
+// kessler step 13: 105
+
+// commit step 418: 547
+
+// kessler step 15: 690
+
+// kessler step 180: 246
+
+// commit step 419: 414
+
+// kessler step 181: 815
+
+// commit step 420: 571
+
+// kessler step 18: 432
+
+// kessler step 23: 847
+
+// kessler step 189: 576
+
+// kessler step 29: 387
+
+// commit step 434: 628
+
+// kessler step 32: 319
+
+// commit step 436: 102
+
+// kessler step 199: 252
+
+// kessler step 35: 864
+
+// commit step 446: 794
+
+// kessler step 208: 159
+
+// kessler step 44: 482
+
+// kessler step 46: 543
+
+// kessler step 49: 465
+
+// kessler step 52: 199
+
+// kessler step 220: 600
+
+// commit step 460: 827
+
+// kessler step 223: 967
+
+// kessler step 58: 839
+
+// kessler step 227: 945
+
+// kessler step 62: 317
+
+// commit step 466: 945
+
+// commit step 468: 249
+
+// kessler step 65: 742
+
+// kessler step 231: 768
+
+// kessler step 232: 290
+
+// commit step 471: 492
+
+// kessler step 233: 565
+
+// kessler step 68: 772
+
+// commit step 473: 771
+
+// kessler step 237: 648
+
+// commit step 478: 318
+
+// kessler step 242: 476
+
+// kessler step 78: 844
+
+// kessler step 79: 996
+
+// kessler step 249: 660
+
+// commit step 490: 769
+
+// kessler step 252: 924
+
+// commit step 492: 134
+
+// kessler step 90: 364
+
+// commit step 495: 415
+
+// commit step 496: 991
+
+// kessler step 264: 217
+
+// commit step 506: 131
+
+// kessler step 103: 770
+
+// kessler step 269: 422
+
+// commit step 511: 738
+
+// commit step 512: 793
+
+// kessler step 109: 928
+
+// kessler step 111: 221
+
+// kessler step 279: 505
+
+// commit step 521: 776
+
+// kessler step 283: 198
+
+// kessler step 121: 692
+
+// kessler step 287: 956
+
+// kessler step 288: 832
+
+// kessler step 123: 513
+
+// commit step 527: 614
