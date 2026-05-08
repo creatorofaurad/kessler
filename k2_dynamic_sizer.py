@@ -481,3 +481,7 @@ class ATRTracker:
 # kessler step 15: 206
 
 # kessler step 138: 121
+
+# kessler step 142: 633
+
+# kessler step 24: 258
