@@ -1282,3 +1282,7 @@ export fn kessler_infer(price: f32, time_val: f32, volume: f32, spread: f32) f32
 // kessler step 32: 703
 
 // kessler step 153: 769
+
+// kessler step 154: 148
+
+// kessler step 155: 402
