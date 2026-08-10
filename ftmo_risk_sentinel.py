@@ -808,3 +808,5 @@ if __name__ == "__main__":
 # kessler step 492: 589
 
 # kessler step 496: 252
+
+# kessler step 500: 263
