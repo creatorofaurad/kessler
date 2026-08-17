@@ -276,4 +276,279 @@ void OnTick()
    }
 }
 //+------------------------------------------------------------------+
-// zero lag bridge
+
+<!-- commit step 4: 489 -->
+
+<!-- commit step 16: 388 -->
+
+<!-- commit step 20: 957 -->
+
+<!-- commit step 23: 574 -->
+
+<!-- commit step 27: 377 -->
+
+<!-- commit step 30: 960 -->
+
+<!-- commit step 33: 568 -->
+
+<!-- commit step 34: 603 -->
+
+<!-- commit step 40: 665 -->
+
+<!-- commit step 47: 550 -->
+
+<!-- commit step 55: 956 -->
+
+<!-- commit step 60: 787 -->
+
+<!-- commit step 75: 570 -->
+
+<!-- commit step 76: 848 -->
+
+<!-- commit step 80: 551 -->
+
+<!-- commit step 94: 610 -->
+
+<!-- commit step 97: 196 -->
+
+<!-- commit step 98: 177 -->
+
+<!-- commit step 102: 162 -->
+
+<!-- commit step 104: 597 -->
+
+<!-- commit step 110: 599 -->
+
+<!-- commit step 113: 113 -->
+
+<!-- commit step 118: 976 -->
+
+<!-- commit step 135: 323 -->
+
+<!-- commit step 139: 583 -->
+
+<!-- commit step 143: 966 -->
+
+<!-- commit step 146: 119 -->
+
+<!-- commit step 149: 567 -->
+
+<!-- commit step 152: 889 -->
+
+<!-- commit step 154: 924 -->
+
+<!-- commit step 156: 839 -->
+
+<!-- commit step 158: 637 -->
+
+<!-- commit step 161: 748 -->
+
+<!-- commit step 166: 119 -->
+
+<!-- commit step 174: 914 -->
+
+<!-- commit step 180: 950 -->
+
+<!-- commit step 185: 586 -->
+
+<!-- commit step 189: 809 -->
+
+<!-- commit step 191: 513 -->
+
+<!-- commit step 199: 402 -->
+
+<!-- commit step 205: 412 -->
+
+<!-- commit step 218: 664 -->
+
+<!-- commit step 233: 115 -->
+
+<!-- commit step 234: 231 -->
+
+<!-- commit step 237: 840 -->
+
+<!-- commit step 247: 564 -->
+
+// kessler step 13: 402
+
+<!-- commit step 255: 854 -->
+
+// kessler step 18: 488
+
+<!-- commit step 257: 372 -->
+
+<!-- commit step 258: 284 -->
+
+// kessler step 22: 848
+
+<!-- commit step 262: 402 -->
+
+<!-- commit step 271: 626 -->
+
+// kessler step 33: 298
+
+// kessler step 35: 322
+
+<!-- commit step 279: 114 -->
+
+// kessler step 55: 761
+
+// kessler step 62: 313
+
+<!-- commit step 300: 162 -->
+
+<!-- commit step 302: 157 -->
+
+<!-- commit step 305: 186 -->
+
+// kessler step 69: 763
+
+<!-- commit step 308: 178 -->
+
+// kessler step 75: 747
+
+<!-- commit step 314: 350 -->
+
+// kessler step 78: 396
+
+<!-- commit step 316: 681 -->
+
+// kessler step 79: 182
+
+<!-- commit step 317: 677 -->
+
+<!-- commit step 319: 593 -->
+
+// kessler step 84: 299
+
+<!-- commit step 325: 440 -->
+
+// kessler step 89: 388
+
+<!-- commit step 332: 873 -->
+
+// kessler step 101: 254
+
+<!-- commit step 339: 817 -->
+
+<!-- commit step 342: 283 -->
+
+<!-- commit step 346: 850 -->
+
+<!-- commit step 347: 814 -->
+
+<!-- commit step 352: 250 -->
+
+<!-- commit step 359: 842 -->
+
+<!-- commit step 360: 661 -->
+
+// kessler step 123: 469
+
+<!-- commit step 369: 698 -->
+
+<!-- commit step 371: 440 -->
+
+<!-- commit step 372: 716 -->
+
+<!-- commit step 378: 392 -->
+
+<!-- commit step 380: 964 -->
+
+<!-- commit step 387: 294 -->
+
+<!-- commit step 392: 698 -->
+
+<!-- commit step 396: 565 -->
+
+<!-- commit step 398: 970 -->
+
+<!-- commit step 402: 669 -->
+
+// kessler step 169: 490
+
+// kessler step 173: 489
+
+<!-- commit step 413: 368 -->
+
+// kessler step 175: 237
+
+// kessler step 176: 509
+
+<!-- commit step 421: 857 -->
+
+<!-- commit step 422: 200 -->
+
+// kessler step 185: 487
+
+<!-- commit step 425: 295 -->
+
+// kessler step 188: 859
+
+<!-- commit step 427: 273 -->
+
+<!-- commit step 428: 668 -->
+
+<!-- commit step 429: 813 -->
+
+// kessler step 198: 429
+
+<!-- commit step 438: 130 -->
+
+// kessler step 201: 656
+
+<!-- commit step 441: 757 -->
+
+<!-- commit step 444: 340 -->
+
+<!-- commit step 448: 494 -->
+
+<!-- commit step 450: 657 -->
+
+<!-- commit step 457: 140 -->
+
+<!-- commit step 467: 645 -->
+
+// kessler step 234: 181
+
+// kessler step 236: 791
+
+<!-- commit step 476: 101 -->
+
+// kessler step 238: 619
+
+<!-- commit step 481: 337 -->
+
+<!-- commit step 485: 178 -->
+
+<!-- commit step 486: 251 -->
+
+<!-- commit step 491: 337 -->
+
+// kessler step 254: 502
+
+<!-- commit step 494: 321 -->
+
+// kessler step 258: 749
+
+// kessler step 259: 410
+
+<!-- commit step 503: 493 -->
+
+// kessler step 265: 144
+
+<!-- commit step 509: 151 -->
+
+// kessler step 275: 504
+
+// kessler step 276: 852
+
+<!-- commit step 515: 517 -->
+
+// kessler step 280: 138
+
+// kessler step 282: 695
+
+<!-- commit step 525: 388 -->
+
+// kessler step 290: 308
