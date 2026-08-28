@@ -116,3 +116,4 @@ class ATRTracker:
 
         if len(self._trs) < self.period: return None
         return sum(self._trs) / len(self._trs)
+# kelly sizer
