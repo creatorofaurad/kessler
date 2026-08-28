@@ -1,0 +1,23 @@
+# KESSLER CONFIGURATION SCHEMA v0.4.0
+# Constraints for deterministic systemic risk modeling
+
+global:
+  seed: uint64 # Null for ASLR chaos, uint64 for replay
+  ticks: uint32 # Simulation duration
+  agents: uint32 # Total population size
+  assets: uint32 # Number of tradeable tickers
+
+physics:
+  herd_influence: float # 0.0 to 1.0 (How much neighbors move theta)
+  hawkes_spike: float # Intensity jump upon neighbor default
+  hawkes_decay: float # Rate at which fear subsides
+  rough_hurst: float # Hurst parameter (H < 0.5 for jagged volatility)
+
+microstructure:
+  base_lambda: float # Kyle's Lambda (Price impact)
+  vpin_threshold: float # Toxicity level for liquidity withdrawal
+  recovery_rate: float # How fast market depth returns post-shock
+
+regulatory:
+  bank_min_car: float # Capital Adequacy Ratio (default: 0.08)
+  margin_requirement: float

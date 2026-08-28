@@ -1,0 +1,32 @@
+name: "Flash Crash 2010"
+description: "Institutional sell algorithm triggers liquidity black hole"
+assets: 37
+start_date: "2010-05-01"
+end_date: "2010-05-07"
+agents:
+  count: 500000
+  leverage_cap: 10.0
+  strategy_distribution:
+    momentum: 0.15
+    mean_reversion: 0.15
+    value: 0.20
+    random: 0.50
+market:
+  base_depth: 500.0
+  decay_rate: 0.02
+  resilience: 0.05
+shocks:
+  - tick: "end_of_replay"
+    type: "liquidity_withdrawal"
+    asset_id: 0
+    fraction: 0.90
+    description: "Market makers withdraw 90% of liquidity"
+  - tick: "end_of_replay+5"
+    type: "agent_default"
+    agent_ids: [42]
+    description: "One over-leveraged fund collapses"
+duration:
+  forward_ticks: 100
+output:
+  csv: true
+  calibration_report: true

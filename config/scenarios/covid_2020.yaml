@@ -1,0 +1,33 @@
+name: "COVID 2020"
+description: "Exogenous 30% equity crash with VIX spike and central bank intervention"
+assets: 37
+start_date: "2020-01-01"
+end_date: "2020-06-30"
+agents:
+  count: 1000000
+  leverage_cap: 5.0
+  strategy_distribution:
+    momentum: 0.20
+    mean_reversion: 0.30
+    value: 0.30
+    random: 0.20
+market:
+  base_depth: 800.0
+  decay_rate: 0.015
+  resilience: 0.08
+shocks:
+  - tick: "end_of_replay"
+    type: "asset_price_drop"
+    asset_id: 0
+    magnitude: -30.0
+    description: "S&P 500 drops 30% — pandemic panic"
+  - tick: "end_of_replay"
+    type: "volatility_spike"
+    asset_id: 35
+    magnitude: 300.0
+    description: "VIX spikes to 80+"
+duration:
+  forward_ticks: 300
+output:
+  csv: true
+  calibration_report: true

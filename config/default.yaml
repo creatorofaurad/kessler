@@ -1,0 +1,21 @@
+# Project Kessler - Baseline Parameters
+global:
+  seed: null # Pure Chaos Mode enabled
+  ticks: 1000
+  agents: 1000
+  assets: 10
+
+physics:
+  herd_influence: 0.15 # Moderate social contagion
+  hawkes_spike: 0.4 # Significant fear spike on death
+  hawkes_decay: 0.95 # Slow cooling of panic
+  rough_hurst: 0.1 # Highly jagged, realistic volatility
+
+microstructure:
+  base_lambda: 0.001 # Liquid market impact
+  vpin_threshold: 0.8 # Withdraw liquidity at 80% imbalance
+  recovery_rate: 1.05 # 5% depth recovery per tick
+
+regulatory:
+  bank_min_car: 0.08 # Basel III standard
+  margin_requirement: 0.5

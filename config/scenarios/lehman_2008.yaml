@@ -1,0 +1,12 @@
+name: Lehman 2008 Calibrated
+count: 100000
+leverage_cap: 7.64
+base_depth: 787.21
+decay_rate: 0.104
+forward_ticks: 200
+shocks:
+  - tick: 10
+    type: systemic
+    agent_ids: [0, 1, 2]
+    asset_id: 0
+    magnitude: 15.0

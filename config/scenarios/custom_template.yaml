@@ -1,0 +1,32 @@
+# KESSLER SCENARIO TEMPLATE
+# Use this to define your own Extinction-Level Event.
+
+global:
+  seed: null # Set to an integer for deterministic replay
+  ticks: 1000 # Duration of the run
+  agents: 1000 # Population scale (Watch your 8GB RAM at 1M+)
+  assets: 10 # Number of unique tickers
+
+physics:
+  # Herd behavior: How much do neighbors influence an agent's risk appetite?
+  herd_influence: 0.20
+  # Hawkes: How much does a neighbor's death spike the "fear" of others?
+  hawkes_spike: 0.50
+  # Decay: How fast does that fear subside? (0.99 = very slow, 0.50 = instant)
+  hawkes_decay: 0.95
+  # Rough Volatility: Jaggedness of the market (0.01 = violent, 0.50 = smooth)
+  rough_hurst: 0.10
+
+microstructure:
+  # Kyle's Lambda: The "Slippage" constant. High = thin markets.
+  base_lambda: 0.005
+  # VPIN: Toxicity threshold. When do market makers stop providing liquidity?
+  vpin_threshold: 0.80
+  # Recovery: Multiplier for depth return each tick (e.g., 1.05 = 5% growth)
+  recovery_rate: 1.05
+
+regulatory:
+  # Bank CAR: When does a "Bank" agent trigger a forced fire-sale?
+  bank_min_car: 0.08
+  # Margin: How much equity must a retail agent maintain before defaulting?
+  margin_requirement: 0.50

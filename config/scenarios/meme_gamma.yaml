@@ -1,0 +1,23 @@
+# Scenario: Meme Gamma (The Retail Squeeze)
+# Objective: Model explosive synchronization among low-centrality agents.
+
+global:
+  seed: 20210127 # The GME Peak seed
+  ticks: 1000
+  agents: 10000 # High volume of small retail agents
+  assets: 5 # Highly concentrated on specific "meme" tickers
+
+physics:
+  herd_influence: 0.85 # Hyper-synchronization (The "Ape" Effect)
+  hawkes_spike: 0.20 # Lower fear, higher "FOMO"
+  hawkes_decay: 0.99 # Euphoria stays high for the duration
+  rough_hurst: 0.02 # Highly jagged, non-linear price action
+
+microstructure:
+  base_lambda: 0.02 # High impact relative to agent size
+  vpin_threshold: 0.9 # Market makers forced to stay (or "Turn off the buy button")
+  recovery_rate: 1.02 # Very slow return to "rational" depth
+
+regulatory:
+  bank_min_car: 0.12 # High capital requirements for institutions
+  margin_requirement: 0.90 # Retail margin calls are instant and brutal
