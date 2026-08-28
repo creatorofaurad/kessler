@@ -30,3 +30,4 @@ Kessler utilizes a hyper-optimized, low-level execution topology:
 
 ## Disclaimer
 This software is built for private institutional execution. Use at your own risk. Past performance does not guarantee future results.
+<!-- Kessler V3 Core -->
