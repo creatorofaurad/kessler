@@ -95,3 +95,4 @@ if __name__ == "__main__":
     # Simulate an edge (60% win rate, 1.5 Reward:Risk)
     k_fraction = sentinel.calculate_kelly_fraction(win_rate=0.60, win_loss_ratio=1.5)
     print(f"[MATH] Current Kelly Risk Fraction: {k_fraction*100:.2f}% per trade")
+# daily loss circuit breaker
